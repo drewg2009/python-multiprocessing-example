@@ -1,3 +1,3 @@
 # python-multiprocessing-example
 
-Exmaples of me exploring parallel programming to increase speed with processes
+Examples of me exploring parallel programming to increase speed with processes
